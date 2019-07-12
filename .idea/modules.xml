@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../airfly/.idea/airfly.iml" filepath="$PROJECT_DIR$/../airfly/.idea/airfly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../akne.char.pp.ua/.idea/akne.char.pp.ua.iml" filepath="$PROJECT_DIR$/../akne.char.pp.ua/.idea/akne.char.pp.ua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../boil-test/.idea/boil-test.iml" filepath="$PROJECT_DIR$/../boil-test/.idea/boil-test.iml" />
+      <module fileurl="file://D:\projGit\akne.char.pp.ua\.idea\char.pp.ua.iml" filepath="D:\projGit\akne.char.pp.ua\.idea\char.pp.ua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/chess.iml" filepath="$PROJECT_DIR$/.idea/chess.iml" />
+      <module fileurl="file://D:\projGit\chest-game\.idea\chest-game.iml" filepath="D:\projGit\chest-game\.idea\chest-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chest-game/.idea/christmas-game.iml" filepath="$PROJECT_DIR$/../chest-game/.idea/christmas-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ddn.co.ua/.idea/ddn.co.ua.iml" filepath="$PROJECT_DIR$/../ddn.co.ua/.idea/ddn.co.ua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dipl/.idea/dipl.iml" filepath="$PROJECT_DIR$/../dipl/.idea/dipl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../easter-game/.idea/easter-game.iml" filepath="$PROJECT_DIR$/../easter-game/.idea/easter-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../front-builder/.idea/front-builder.iml" filepath="$PROJECT_DIR$/../front-builder/.idea/front-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gulp-w/.idea/gulp-w.iml" filepath="$PROJECT_DIR$/../gulp-w/.idea/gulp-w.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gulp4_v2/.idea/gulp4_v2.iml" filepath="$PROJECT_DIR$/../gulp4_v2/.idea/gulp4_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parallax-slideNY/.idea/parallax-slideNY.iml" filepath="$PROJECT_DIR$/../parallax-slideNY/.idea/parallax-slideNY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../popnotice/.idea/popnotice.iml" filepath="$PROJECT_DIR$/../popnotice/.idea/popnotice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-a/.idea/react-a.iml" filepath="$PROJECT_DIR$/../react-a/.idea/react-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gulp4_v1/.idea/svg.iml" filepath="$PROJECT_DIR$/../gulp4_v1/.idea/svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webpack-a/.idea/webpack-a.iml" filepath="$PROJECT_DIR$/../webpack-a/.idea/webpack-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webpack-three-config/.idea/webpack-three-config.iml" filepath="$PROJECT_DIR$/../webpack-three-config/.idea/webpack-three-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yarn-work/.idea/yarn-work.iml" filepath="$PROJECT_DIR$/../yarn-work/.idea/yarn-work.iml" />
+    </modules>
+  </component>
+</project>

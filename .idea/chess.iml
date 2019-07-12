@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="tw-test" />
+    <orderEntry type="module" module-name="boil-test" />
+    <orderEntry type="module" module-name="front-builder" />
+    <orderEntry type="module" module-name="front-builder" />
+    <orderEntry type="module" module-name="gulp-w" />
+    <orderEntry type="module" module-name="airfly" />
+    <orderEntry type="module" module-name="yarn-work" />
+    <orderEntry type="module" module-name="popnotice" />
+    <orderEntry type="module" module-name="untitled1" />
+    <orderEntry type="module" module-name="popnotice" />
+    <orderEntry type="module" module-name="popnotice" />
+    <orderEntry type="module" module-name="popnotice" />
+    <orderEntry type="module" module-name="airfly" />
+    <orderEntry type="module" module-name="dipl" />
+    <orderEntry type="module" module-name="webpack-a" />
+    <orderEntry type="module" module-name="webpack-a" />
+    <orderEntry type="module" module-name="webpack-a" />
+    <orderEntry type="module" module-name="ddn.co.ua" />
+    <orderEntry type="module" module-name="ddn.co.ua" />
+    <orderEntry type="module" module-name="webpack-three-config" />
+    <orderEntry type="module" module-name="svg" />
+    <orderEntry type="module" module-name="svg" />
+    <orderEntry type="module" module-name="gulp4_v2" />
+    <orderEntry type="module" module-name="gulp4_v2" />
+    <orderEntry type="module" module-name="parallax-slideNY" />
+    <orderEntry type="module" module-name="char.pp.ua" />
+    <orderEntry type="module" module-name="char.pp.ua" />
+    <orderEntry type="module" module-name="akne.char.pp.ua" />
+    <orderEntry type="module" module-name="chest-game" />
+    <orderEntry type="module" module-name="react-a" />
+    <orderEntry type="module" module-name="christmas-game" />
+    <orderEntry type="module" module-name="easter-game" />
+  </component>
+</module>

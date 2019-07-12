@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="05639896-6419-4e54-a726-70ee5c7e065d" name="Airfly" url="http://ftp.s48.freehost.com.ua">
+        <fileTransfer host="ftp.s48.freehost.com.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5a0d7fd1-ef10-4127-bdcf-d6343fe3c108" name="chinoze8412_CityHost" url="http://193.0.61.36">
+        <fileTransfer host="193.0.61.36" port="22" rootFolder="/var/www/chinoze8412/data/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

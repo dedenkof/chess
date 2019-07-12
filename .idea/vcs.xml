@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../airfly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ddn.co.ua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dipl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../easter-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../front-builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gulp-w" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gulp4_v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gulp4_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../parallax-slideNY" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../popnotice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../react-a" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../webpack-a" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../webpack-three-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../yarn-work" vcs="Git" />
+  </component>
+</project>
